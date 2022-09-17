@@ -1,2 +1,7 @@
 ### dotenv ###
 .env
+
+### cache ###
+__pycache__/
+cogs/bridge/__pycache__/
+cogs/commands/__pycache__/
